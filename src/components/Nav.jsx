@@ -3,7 +3,7 @@ function Nav() {
        <header className="header">
         <nav className="navbar navbar-expand-lg container-1 sticky-top ">
             <div>
-            <a href="#portfolio-img"><img className="nav-logo" src="../../public/Images/Efren-Leal.svg"/>
+            <a href="#portfolio-img"><img className="nav-logo" src="./Images/Efren-Leal.svg"/>
                     <button className="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                         aria-label="Toggle navigation">
@@ -25,9 +25,9 @@ function Nav() {
             </div>
             <div className="right-navbar">
                 <a href="https://www.linkedin.com/in/efren-leal/" target="_blank"><img className="in-logo"
-                        src="../../public/Images/linkedin-logo.svg"/></a>
+                        src="./Images/linkedin-logo.svg"/></a>
                 <a href="https://github.com/Efren96?tab=repositories" target="_blank"><img className="in-logo"
-                        src="../../public/Images/github-logo.svg"/></a>
+                        src="./Images/github-logo.svg"/></a>
                 <input className="menu-btn" type="checkbox" id="menu-btn" />
                 <label className="menu-icon" for="menu-btn"><span className="navicon"></span></label>
             </div>

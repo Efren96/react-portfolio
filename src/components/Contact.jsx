@@ -50,7 +50,7 @@ function Contact() {
             <div className="form-div" >
                 <form className="form-card">
                     <div className="name-div">
-                        <img className="contact-me" src="../../public/Images/contact-me.svg" alt="Phone Icon Image" />
+                        <img className="contact-me" src="./Images/contact-me.svg" alt="Phone Icon Image" />
                     </div>
                     <div className="input-div">
                         <div className="name-div">
@@ -80,17 +80,17 @@ function Contact() {
             <div className="contact-slider" id="contact-slider">
                 <div className="contact-div">
                     <a href="tel: 713-679-0177" title="713-679-0177">
-                        <img id="phone-img" src="../../public/Images/phone-icon.svg" alt="Phone Icon Image" /></a>
+                        <img id="phone-img" src="./Images/phone-icon.svg" alt="Phone Icon Image" /></a>
                     <span className="phone-text" />
                 </div>
                 <div className="contact-div">
                     <a href="https://www.linkedin.com/in/efren-leal/" target="_blank">
-                        <img id="github-img" src="../../public/Images/linkedin-logo.svg" alt="Github Logo" /></a>
+                        <img id="github-img" src="./Images/linkedin-logo.svg" alt="Github Logo" /></a>
                     <span className="git-hub"></span>
                 </div>
                 <div className="contact-div">
                     <a href="mailto:efrenleal19@gmail.com" title="efrenleal19@gmail.com" target="_blank">
-                        <img id="email-img" src="../../public/Images/mail-icon.svg" alt="Mail Icon Image" /></a>
+                        <img id="email-img" src="./Images/mail-icon.svg" alt="Mail Icon Image" /></a>
                     <span className="e-mail"></span>
                 </div>
             </div>

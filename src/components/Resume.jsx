@@ -8,10 +8,10 @@ function Resume() {
             </div>
             <div className="resume-section">
                 <div className="resume-card">
-                <img className="resume-card-image" src="../../public/Images/Frontend.svg" />
+                <img className="resume-card-image" src="./Images/Frontend.svg" />
                     <hr className="card-line"></hr>
-                    <img className="resume-icon-1" src="../../public/Images/frontend-logo.svg"/>
-                    <img className="divider-img" src="../../public/Images/divider.svg"/>
+                    <img className="resume-icon-1" src="./Images/frontend-logo.svg"/>
+                    <img className="divider-img" src="./Images/divider.svg"/>
                     <div className="resume-p">
                     <p className="resume-list">HTML</p>
                     <p className="resume-list">CSS</p>
@@ -22,10 +22,10 @@ function Resume() {
                     </div>
                 </div>
                 <div className="resume-card">
-                <img className="resume-card-image" src="../../public/Images/Backend.svg" />
+                <img className="resume-card-image" src="./Images/Backend.svg" />
                 <hr className="card-line"></hr>
-                <img className="resume-icon" src="../../public/Images/backend-logo.svg"/>
-                <img className="divider-img" src="../../public/Images/divider.svg"/>
+                <img className="resume-icon" src="./Images/backend-logo.svg"/>
+                <img className="divider-img" src="./Images/divider.svg"/>
                 <div className="resume-p">
                     <p className="resume-list">Node.Js</p>
                     <p className="resume-list">Express.Js</p>
@@ -36,10 +36,10 @@ function Resume() {
                     </div>
                 </div>
                 <div className="resume-card">
-                <img className="resume-card-image-3" src="../../public/Images/Performance.svg" />
+                <img className="resume-card-image-3" src="./Images/Performance.svg" />
                 <hr className="card-line-3"></hr>
-                <img className="resume-icon" src="../../public/Images/Performance-logo.svg"/>
-                <img className="divider-img" src="../../public/Images/divider.svg"/>
+                <img className="resume-icon" src="./Images/Performance-logo.svg"/>
+                <img className="divider-img" src="./Images/divider.svg"/>
                 <div className="resume-p">
                     <p className="resume-list">NoSql</p>
                     <p className="resume-list">MongoDb</p>
