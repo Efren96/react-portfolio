@@ -2,7 +2,7 @@ function Header() {
     return (
         <section id="about-me">
             <div className="aboutme-img-div" id="about-me">
-                <img className="aboutme-logo" src="./Images/About-Me.svg" alt="my-portfolio-logo" id="about-me" />
+                <img className="aboutme-logo" src="../Images/About-Me.svg" alt="my-portfolio-logo" id="about-me" />
             </div>
             <div className="aboutme-paragraph">
                 <p className="aboutme">"My name is Efren Leal, I’m 28 years old and currently reside in Houston, Texas.
