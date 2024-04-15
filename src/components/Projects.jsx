@@ -6,7 +6,7 @@ function Projects() {
         </div>
             <div className="projects-slider" id="projects-section">
                 <div className="card">
-                    <img className="card-image" src="../../public/Images/vetech-poster.jpg" />
+                    <img className="card-image" src="./Images/vetech-poster.jpg" />
                     <div className="card-body">
                     <h1 className="card-title">VetTech</h1>
                     <p className="card-sub-title">Seamlessly manage and access information about pets and their owners. <br/>
