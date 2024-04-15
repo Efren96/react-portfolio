@@ -28,10 +28,10 @@
 
 
   ## Deployment
-This application was deployed using Netflify. Visit deployed app here: 
+This application was deployed using Netflify. Visit deployed app here: https://main--efrensportfolio.netlify.app/
 
 ## Screenshot
-![alt text](./Images/portfolio-screenshot.png)
+![alt text](./public/Images/portfolio-screenshot.png)
 
 
   ## Questions
