@@ -3,7 +3,7 @@ function Nav() {
        <header className="header">
         <nav className="navbar navbar-expand-lg container-1 sticky-top ">
             <div>
-            <a href="#portfolio-img"><img className="nav-logo" src="./Images/Efren-Leal.svg"/>
+            <a href="#portfolio-img"><img className="nav-logo" src="../../Images/Efren-Leal.svg"/>
                     <button className="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                         aria-label="Toggle navigation">
