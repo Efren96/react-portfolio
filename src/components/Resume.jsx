@@ -10,7 +10,7 @@ function Resume() {
                 <div className="resume-card">
                 <img className="resume-card-image" src="./Images/Frontend.svg" />
                     <hr className="card-line"></hr>
-                    <img className="resume-icon-1" src="./Images/frontend-logo.svg"/>
+                    <img className="resume-icon-1" src="./Images/Frontend-logo.svg"/>
                     <img className="divider-img" src="./Images/divider.svg"/>
                     <div className="resume-p">
                     <p className="resume-list">HTML</p>
@@ -24,7 +24,7 @@ function Resume() {
                 <div className="resume-card">
                 <img className="resume-card-image" src="./Images/Backend.svg" />
                 <hr className="card-line"></hr>
-                <img className="resume-icon" src="./Images/backend-logo.svg"/>
+                <img className="resume-icon" src="./Images/Backend-logo.svg"/>
                 <img className="divider-img" src="./Images/divider.svg"/>
                 <div className="resume-p">
                     <p className="resume-list">Node.Js</p>

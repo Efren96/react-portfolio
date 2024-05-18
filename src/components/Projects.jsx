@@ -5,6 +5,17 @@ function Projects() {
             <p className="projects-banner">Projects</p>
         </div>
             <div className="projects-slider" id="projects-section">
+            <div className="card">
+                <img className="card-image" src="./Images/codecave-poster.svg"/>
+                <div className="card-body">
+                    <h1 className="card-title">codeCave</h1>
+                    <p className="card-sub-title">Share projects and collaborate with fellow developers on codeCave!</p>
+                    <a href="https://codecave.onrender.com/" target="_blank">
+                        <button className="card-btn">Visit Site</button></a>
+                        <a href="https://github.com/sarafuller2018/codeCave" target="_blank">
+                        <button className="card-btn-2">GitHub</button></a>
+                </div>
+            </div>
                 <div className="card">
                     <img className="card-image" src="./Images/vetech-poster.jpg" />
                     <div className="card-body">
@@ -15,7 +26,7 @@ function Projects() {
                     <a href="https://vet-tech-app-57f56dec96cd.herokuapp.com/login" target="_blank">
                         <button className="card-btn">Visit Site</button></a>
                         <a href="https://github.com/Efren96/vet-tech-app" target="_blank">
-                        <button className="card-btn-2">GitHub Repo</button></a>
+                        <button className="card-btn-2">GitHub</button></a>
                     </div>
                 </div>
                 <div className="card">
@@ -30,7 +41,7 @@ function Projects() {
                     <a href="https://efren96.github.io/movies-to-watch-app/" target="_blank">
                         <button className="card-btn">Visit Site</button></a>
                         <a href="https://github.com/Efren96/movies-to-watch-app" target="_blank">
-                        <button className="card-btn-2">GitHub Repo</button></a>
+                        <button className="card-btn-2">GitHub</button></a>
                 </div>
             </div>
             <div className="card">
@@ -41,18 +52,7 @@ function Projects() {
                     <a href="https://efren96.github.io/workday-scheduler-accessibility-revamp/" target="_blank">
                         <button className="card-btn">Visit Site</button></a>
                         <a href="https://github.com/Efren96/workday-scheduler-accessibility-revamp" target="_blank">
-                        <button className="card-btn-2">GitHub Repo</button></a>
-                </div>
-            </div>
-            <div className="card">
-                <img className="card-image" src="./Images/weather-poster.jpg"/>
-                <div className="card-body">
-                    <h1 className="card-title">Weather Dashboard</h1>
-                    <p className="card-sub-title">5-day weather forecast app (work in progress)</p>
-                    <a href="https://efren96.github.io/weather-dashboard-application/" target="_blank">
-                        <button className="card-btn">Visit Site</button></a>
-                        <a href="https://github.com/Efren96/weather-dashboard-application" target="_blank">
-                        <button className="card-btn-2">GitHub Repo</button></a>
+                        <button className="card-btn-2">GitHub</button></a>
                 </div>
             </div>
             </div>
