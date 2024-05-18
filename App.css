@@ -35,7 +35,7 @@ body{
 
 .dropdown-list{
     position: fixed;
-    margin-top: -200px;
+    margin-top: -225px;
     width: 1200px;
     display: flex;
     flex-direction: column;
